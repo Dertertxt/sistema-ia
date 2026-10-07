@@ -6,3 +6,6 @@ de Sistemas de Inteligencia Artificial.
 - Inferencia
 - Configuracion
 - Documentacion
+
+## Estado del proyecto
+Prototipo inicial.
